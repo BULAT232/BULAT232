@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @BULAT232
-- 👀 I’m interested in coding..
-- 🌱 I’m currently learning web-developin
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bulat. I am frontend-developer
 
 <!---
 BULAT232/BULAT232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
